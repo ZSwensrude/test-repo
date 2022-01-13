@@ -6,8 +6,8 @@ Here are some examples of what you can do with a markdown file :)
 ### H3
 
 **bold text**
- *italicized text*
- > blockquote
+*italicized text*
+> blockquote
 
 
 1. First item
@@ -20,7 +20,7 @@ Here are some examples of what you can do with a markdown file :)
 
 'code'
 ---
-[markdown cheatsheet REF:](https://www.markdownguide.org/cheat-sheet/)
+[markdown cheatsheet reference](https://www.markdownguide.org/cheat-sheet/)
 
 ![test image of mars](https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg)
 
